@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Front-end Web Development**
+- 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Front-end Web Development**
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishalkumarkushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishalkumarkushwaha" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishalkumarkushwaha?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishalkumarkushwaha" height="30" width="40" /></a>
 <a href="https://instagram.com/its_official_vishal19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_official_vishal19" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@btech2021_visha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@btech2021_visha2" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/btech2021_visha2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@btech2021_visha2" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kushwahavishal2219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kushwahavishal2219" height="30" width="40" /></a>
 </p>
 
