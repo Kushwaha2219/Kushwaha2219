@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vishal Kumar Kushwaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Accent&size=25&pause=1000&color=F71A1A&center=true&vCenter=true&random=false&width=435&lines=Front-End+Developer;Problem+Solver;" alt="Typing SVG" /></a>
+</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushwaha2219&label=Profile%20views&color=0e75b6&style=flat" alt="kushwaha2219" /> </p>
 
